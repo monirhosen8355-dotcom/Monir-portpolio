@@ -10,7 +10,7 @@
   background-image: url('../images/developer.png'),
                     url('/images/header_bg.png');
   background-repeat: no-repeat;
-  background-position: top left, bottom right;
+  background-position: 23px 31px, bottom right;
   background-size: 80px auto, 650px auto;
   min-height: auto; 
    overflow: hidden; 
@@ -79,7 +79,7 @@ nav .menu a{
     color: #757575;
 }
 #banner .banner-content{
-   padding: 50px;
+   padding: 88px;
 }
 #banner {
 /* border: 1px solid tomato; */
